@@ -2,6 +2,7 @@
 
 # 002776646_Samiksha_Hikers_Heaven
 Part A: Hikers Heaven
+
 The web page is divided into multiple sections which are as below:
 1. Home
 2. Destination
